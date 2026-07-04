@@ -11,7 +11,8 @@ Passionate about building robust systems from the ground up. Currently deepening
 - ⚡ Producer-consumer pattern with configurable worker thread pool  
 - 📊 Real-time JSON persistence and status updates  
 - 📈 Live dashboard with metrics and worker summaries  
-- 🔧 Separate CRUD operations mode  
+- 🔧 Separate CRUD operations mode
+  
 Strong focus on concurrency, thread safety, and practical systems design.
 
 ### [Lightweight Database Engine](https://github.com/Muhaimin-Mukammel/Lightweight-Database-Engine)
@@ -39,9 +40,6 @@ Deep dive into database internals: pages, slots, indexing, and persistence.
 - **Core**: Multithreading, Concurrency, Low-level Networking, HTTP, Database Internals (Pages & Indexing)
 - **Tools**: Maven, Jackson, Git, IntelliJ IDEA 🛠️
 
-## 📊 GitHub Stats
-![Muhaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhaimin-Mukammel&show_icons=true&theme=radical)
-
 ## 🔥 Current Focus
 - Mastering **Spring Boot + Spring Security**
 - Improving the Lightweight Database Engine (multi-page support, better indexing)
@@ -50,13 +48,6 @@ Deep dive into database internals: pages, slots, indexing, and persistence.
 ## 📫 Get in Touch
 
 **Email**: [muhaiminmukammel818@gmail.com](mailto:muhaiminmukammel818@gmail.com) ✉️
-
-<!-- Add your social links here -->
-**Social Links:**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter/X: [Your X](https://x.com/yourhandle)
-- Portfolio: [Your Website](https://yoursite.com)
-
 ---
 
 *"Understanding fundamentals by building from scratch — then scaling with modern tools like Spring."* ✨
