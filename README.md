@@ -1,55 +1,62 @@
-# Hi there, I'm Muhaimin Mukammel 👋
+# 👋 Hello, I'm Muhaimin Mukammel
 
-**Java Developer | Backend Systems | Concurrency & Low-Level Programming**
+## 🚀 Java Backend Developer
 
-Passionate about building robust systems from the ground up. Currently deepening my expertise in **Spring Boot**, **Spring Security**, and testing while focusing on high-performance Java applications.
-
-## 🚀 Featured Projects
-
-### [TaskFlow](https://github.com/Muhaimin-Mukammel/TaskFlow)
-**Main Project** — Console-based **multi-threaded job processing engine** built in pure Java.  
-- ⚡ Producer-consumer pattern with configurable worker thread pool  
-- 📊 Real-time JSON persistence and status updates  
-- 📈 Live dashboard with metrics and worker summaries  
-- 🔧 Separate CRUD operations mode
-  
-Strong focus on concurrency, thread safety, and practical systems design.
-
-### [Lightweight Database Engine](https://github.com/Muhaimin-Mukammel/Lightweight-Database-Engine)
-**Main Project** — A small, single-file relational database engine written from scratch in Java.
-
-**Key Features & Learning Highlights:**
-- 📄 **Page-based storage** — Fixed 4KB pages split into 128-byte slots using `RandomAccessFile`
-- 📋 **Schema Catalog** — Table definitions persisted as JSON
-- 🔑 **Primary Key Hash Index** — In-memory mapping rebuilt on startup
-- 📦 **Binary Row Serialization** — Custom packing for `INT` & `STRING`
-- 🛠️ **Full CRUD Service Layer**
-- 🖥️ **Interactive Console REPL Dashboard**
-
-Deep dive into database internals: pages, slots, indexing, and persistence.
-
-### Other Notable Projects
-- **[Java Raw HTTP Server](https://github.com/Muhaimin-Mukammel/Java-Raw-Http-Server)** — Hand-built HTTP server using raw sockets 🌐
-- **[json-file-database](https://github.com/Muhaimin-Mukammel/json-file-database)** — JSON-based CLI database with Jackson 📝
-- **[Banking System](https://github.com/Muhaimin-Mukammel/Banking-System)** — Console banking application 🏦
-- **[Multithreading](https://github.com/Muhaimin-Mukammel/Multithreading)** — Concurrency experiments ⚙️
-
-## 🛠️ Skills & Technologies
-- **Languages**: Java (17+) ☕
-- **Frameworks**: Spring Boot, Spring Security, Spring Test 🌱
-- **Core**: Multithreading, Concurrency, Low-level Networking, HTTP, Database Internals (Pages & Indexing)
-- **Tools**: Maven, Jackson, Git, IntelliJ IDEA 🛠️
-
-## 🔥 Current Focus
-- Mastering **Spring Boot + Spring Security**
-- Improving the Lightweight Database Engine (multi-page support, better indexing)
-- Building production-ready backend systems
-
-## 📫 Get in Touch
-
-**Email**: [muhaiminmukammel818@gmail.com](mailto:muhaiminmukammel818@gmail.com) ✉️
 ---
 
-*"Understanding fundamentals by building from scratch — then scaling with modern tools like Spring."* ✨
+### 💻 About Me
 
-Thanks for visiting my profile!
+I'm a passionate Java developer focused on building robust backend systems, concurrency solutions, and understanding low-level concepts. I enjoy creating projects from scratch to deeply understand how things work under the hood.
+
+- 🔭 Currently working on **TaskFlow** and **Lightweight Database Engine**
+- 🌱 Learning **Spring Boot, Spring Security, and advanced testing**
+- 👯 Looking to collaborate on backend systems and Java projects
+- 💬 Ask me about multithreading, database internals, or raw HTTP servers
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+- Java (17+) ☕
+- Spring Boot, Spring Security, Spring Test 🌱
+
+**Core Skills**
+- Multithreading & Concurrency ⚡
+- Database Internals (Pages, Indexing, Storage Engines)
+- Low-level Networking & HTTP
+- JSON Processing (Jackson)
+
+**Tools**
+- Maven, Git, IntelliJ IDEA
+
+---
+
+### 🏆 Featured Projects
+
+#### [TaskFlow](https://github.com/Muhaimin-Mukammel/TaskFlow)
+Console-based multi-threaded job processing engine with real-time dashboard, producer-consumer pattern, and JSON persistence.
+
+#### [Lightweight Database Engine](https://github.com/Muhaimin-Mukammel/Lightweight-Database-Engine)
+Custom single-file relational database with page-based storage, schema catalog, primary key indexing, and interactive REPL.
+
+#### [Java Raw HTTP Server](https://github.com/Muhaimin-Mukammel/Java-Raw-Http-Server)
+Hand-built HTTP server from scratch using raw sockets and manual parsing — no frameworks.
+
+*(More projects available on my repositories)*
+
+---
+
+### 📊 GitHub Stats
+
+![Muhaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhaimin-Mukammel&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to reach me:
+
+- **Email**: [muhaiminmukammel818@gmail.com](mailto:muhaiminmukammel818@gmail.com) ✉️
+
+---
+
+⭐️ From [Muhaimin-Mukammel](https://github.com/Muhaimin-Mukammel)
