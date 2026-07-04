@@ -56,6 +56,7 @@ Hand-built HTTP server from scratch using raw sockets and manual parsing — no 
 ### 📫 How to reach me:
 
 - **Email**: [muhaiminmukammel818@gmail.com](mailto:muhaiminmukammel818@gmail.com) ✉️
+- **Twitter**: [@MuhaiminDev](https://x.com/MuhaiminDev) 🐦
 
 ---
 
