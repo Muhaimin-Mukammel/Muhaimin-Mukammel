@@ -8,7 +8,7 @@
 
 I'm a passionate Java developer focused on building robust backend systems, concurrency solutions, and understanding low-level concepts. I enjoy creating projects from scratch to deeply understand how things work under the hood.
 
-- 🔭 Currently working on **TaskFlow** and **Lightweight Database Engine**
+- 🔭 Currently working on **Crypto Trading Project**
 - 🌱 Learning **Spring Boot, Spring Security, and advanced testing**
 - 👯 Looking to collaborate on backend systems and Java projects
 - 💬 Ask me about multithreading, database internals, or raw HTTP servers
