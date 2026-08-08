@@ -72,9 +72,21 @@ I prefer projects that force real constraints over tutorial checklists.
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-FF6F00?style=for-the-badge&logo=mockito&logoColor=white)
 
-### Exploring
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+### Networking & Protocols
+![HTTP](https://img.shields.io/badge/HTTP-005C9C?style=for-the-badge&logo=http&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket_Programming-0A66C2?style=for-the-badge&logo=linux&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+
+### Caching, Rate Limiting & Auth
+![Caffeine](https://img.shields.io/badge/Caffeine-CA8A04?style=for-the-badge&logo=java&logoColor=white)
+![Bucket4j](https://img.shields.io/badge/Bucket4j-EF4444?style=for-the-badge&logo=java&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-DC2626?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### Edge & Infra Concepts
+![CDN](https://img.shields.io/badge/CDN-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-1488FC?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -200,6 +212,14 @@ More on [Medium](https://medium.com/@muhaiminmukammel818)
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhaimin-Mukammel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhaimin-Mukammel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
+</p>
+
+---
 
 ## 📫 Let's Connect
 
@@ -214,3 +234,4 @@ More on [Medium](https://medium.com/@muhaiminmukammel818)
 $ echo "Build systems. Understand the cost."
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
