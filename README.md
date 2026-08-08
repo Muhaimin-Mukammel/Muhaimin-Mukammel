@@ -1,64 +1,80 @@
-# 👋 Hello, I'm Muhaimin Mukammel
+```bash
+$ whoami
+Muhaimin Mukammel
 
-## 🚀 Java Backend Developer
+$ cat /etc/motd
+Java Backend Engineer | Systems from first principles
+Bangladesh
 
----
-
-### 💻 About Me
-
-I'm a passionate Java developer focused on building robust backend systems, concurrency solutions, and understanding low-level concepts. I enjoy creating projects from scratch to deeply understand how things work under the hood.
-
-- 🔭 Currently working on **Crypto Trading Project**
-- 🌱 Learning **Spring Boot, Spring Security, and advanced testing**
-- 👯 Looking to collaborate on backend systems and Java projects
-- 💬 Ask me about multithreading, database internals, or raw HTTP servers
+$ uptime
+Currently building realtime systems & distributed backends
+Learning deeper: concurrency, networking, databases, system design
+```
 
 ---
 
-### 🛠️ Tech Stack
+### About
 
-**Languages & Frameworks**
-- Java (17+) ☕
-- Spring Boot, Spring Security, Spring Test 🌱
+I build backend systems to understand how they actually work — not just how to use the frameworks that abstract them away.
 
-**Core Skills**
-- Multithreading & Concurrency ⚡
-- Database Internals (Pages, Indexing, Storage Engines)
-- Low-level Networking & HTTP
-- JSON Processing (Jackson)
+Java is my primary language. I care about concurrency, networking, data storage, and the trade-offs that show up once systems leave the happy path.
 
-**Tools**
-- Maven, Git, IntelliJ IDEA
+I prefer projects that force me to confront real constraints over tutorial checklists.
 
----
-
-### 🏆 Featured Projects
-
-#### [TaskFlow](https://github.com/Muhaimin-Mukammel/TaskFlow)
-Console-based multi-threaded job processing engine with real-time dashboard, producer-consumer pattern, and JSON persistence.
-
-#### [Lightweight Database Engine](https://github.com/Muhaimin-Mukammel/Lightweight-Database-Engine)
-Custom single-file relational database with page-based storage, schema catalog, primary key indexing, and interactive REPL.
-
-#### [Java Raw HTTP Server](https://github.com/Muhaimin-Mukammel/Java-Raw-Http-Server)
-Hand-built HTTP server from scratch using raw sockets and manual parsing — no frameworks.
-
-*(More projects available on my repositories)*
+```
+$ ps aux | grep current
+├── Realtime Crypto Trading Platform  →  Gateway / WebSocket / Redis Pub-Sub
+├── Distributed E-commerce Backend    →  Service boundaries, caching, communication patterns
+```
 
 ---
 
-### 📊 GitHub Stats
+### Stack
 
-![Muhaimin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhaimin-Mukammel&show_icons=true&theme=radical)
+```
+Languages     Java 17+ · C · C++ · Python
+Backend       Spring Boot · Maven · REST · Jackson
+Concurrency   ExecutorService · BlockingQueue · ReentrantLock · Thread pools
+Data          PostgreSQL · Redis · Flyway · Caching
+Infra         Docker · Docker Compose
+Testing       JUnit · Mockito · AssertJ
+Exploring     WebSockets · gRPC · Redis Pub/Sub · Service communication
+```
 
 ---
 
-### 📫 How to reach me:
+### Selected Work
 
-- **Email**: [muhaiminmukammel818@gmail.com](mailto:muhaiminmukammel818@gmail.com) ✉️
-- **Twitter**: [@MuhaiminDev](https://x.com/MuhaiminDev) 🐦
-- **Medium** : [Muhaiminmukammel](https://medium.com/@muhaiminmukammel818)
+| Project | What it is |
+|---------|------------|
+| **[Lightweight Database Engine](https://github.com/Muhaimin-Mukammel/Lightweight-Database-Engine)** | Single-file relational engine — page storage, schema catalog, primary-key indexing, REPL |
+| **[TaskFlow](https://github.com/Muhaimin-Mukammel/TaskFlow)** | Multi-threaded job processing engine — producer-consumer, worker pools, live dashboard |
+| **[Banking System](https://github.com/Muhaimin-Mukammel/Banking-System)** | Spring Boot banking backend — JWT, accounts, transactions, locking, rate limiting, Docker |
+| **[Java Raw HTTP Server](https://github.com/Muhaimin-Mukammel/Java-Raw-Http-Server)** | HTTP server from raw sockets — no frameworks, manual parsing |
+| **[json-file-database](https://github.com/Muhaimin-Mukammel/json-file-database)** | Simple CLI persistence layer with Jackson |
 
 ---
 
-⭐️ From [Muhaimin-Mukammel](https://github.com/Muhaimin-Mukammel)
+### Writing
+
+I write about the things I’m actively wrestling with, on [Medium](https://medium.com/@muhaiminmukammel818)
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhaimin-Mukammel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+---
+
+### Contact
+
+```
+email   →  muhaiminmukammel818@gmail.com
+x       →  @MuhaiminDev
+medium  →  @muhaiminmukammel818
+```
+
+```
+$ echo "Build systems. Understand the cost."
+```
