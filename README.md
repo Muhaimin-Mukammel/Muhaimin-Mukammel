@@ -144,21 +144,34 @@ I prefer projects that force real constraints over tutorial checklists.
 ## 🌐 Currently Working On
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│           Realtime Crypto Trading Platform (Gateway)            │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│   Binance  ──►  Ingestion  ──►  Redis Pub/Sub  ──►  Gateway     │
-│                                                      │          │
-│                                                      ▼          │
-│                                               WebSocket Clients │
-│                                                                 │
-│   Responsibilities: session mgmt · subscriptions · fan-out      │
-│                     reconnection · connection lifecycle         │
-├─────────────────────────────────────────────────────────────────┤
-│  Also: Distributed E-commerce backend (service boundaries,      │
-│  caching strategy, sync vs async communication)                 │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│  1. Realtime Crypto Trading Platform — Gateway Service                   │
+├──────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│   Binance ──► Ingestion ──► Redis Pub/Sub ──► Gateway ──► WS Clients     │
+│                                                                          │
+│   session mgmt · subscriptions · fan-out · reconnection · lifecycle      │
+└──────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────┐
+│  2. Distributed E-commerce Backend                                       │
+├──────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│   Users → DNS → CDN → Load Balancer → Router/Gateway                     │
+│                              │                                           │
+│              ┌───────────────┼───────────────┐                           │
+│              ▼               ▼               ▼                           │
+│         User Service    Product Svc     Order / Search                   │
+│              │               │               │                           │
+│              └────── gRPC / Events ──────────┘                           │
+│                              │                                           │
+│              ┌───────────────┼───────────────┐                           │
+│              ▼               ▼               ▼                           │
+│         Redis Cache     Event Bus      Master DB + Replicas              │
+│      (catalog/search)  (notify/route)     + Backup                       │
+│                                                                          │
+│   Focus: service boundaries · sync vs async · caching · failure modes    │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 
