@@ -196,8 +196,6 @@ I prefer projects that force real constraints over tutorial checklists.
   <a href="https://www.codechef.com/users/padedorse"><img src="https://img.shields.io/badge/CodeChef-padedorse-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 </p>
 
-Previously practiced competitive programming (Codeforces ~800–900 range). Prefer hints and reasoning over full solutions.
-
 ---
 
 ## ✍️ Writing
