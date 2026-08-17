@@ -43,9 +43,6 @@ public class MuhaiminMukammel {
 }
 ```
 
-I build backend systems to understand how they actually work — not just how to use the frameworks that abstract them away.  
-I prefer projects that force real constraints over tutorial checklists.
-
 ---
 
 ## 🛠️ Tech Stack
