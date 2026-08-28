@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 ```java
 public class MuhaiminMukammel {
@@ -87,7 +87,7 @@ public class MuhaiminMukammel {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -150,7 +150,7 @@ public class MuhaiminMukammel {
 
 ---
 
-## 🌐 Currently Working On
+##  Currently Working On
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -186,7 +186,7 @@ public class MuhaiminMukammel {
 
 ---
 
-## 🏆 Competitive Programming
+##  Competitive Programming
 
 <p align="center">
   <a href="https://codeforces.com/profile/Padedorse1"><img src="https://img.shields.io/badge/Codeforces-Padedorse1-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
@@ -195,7 +195,7 @@ public class MuhaiminMukammel {
 
 ---
 
-## ✍️ Writing
+##  Writing
 
 I write about the problems I’m actively wrestling with:
 
@@ -207,7 +207,7 @@ More on [Medium](https://medium.com/@muhaiminmukammel818)
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://muhaimindev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-muhaimindev.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
