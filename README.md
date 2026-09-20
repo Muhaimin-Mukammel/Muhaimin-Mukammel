@@ -13,6 +13,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Java+Backend+Engineer;Concurrency+%26+Systems;Building+from+first+principles;Realtime+%26+Distributed+Backends" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <b>🟢 Open to internships, junior backend roles, and systems-related collaboration · remote only · Sylhet, BD</b>
+</p>
+
 ---
 
 ##  About Me
@@ -188,17 +192,9 @@ More on [Medium](https://medium.com/@muhaiminmukammel818) and [dev.to](https://d
 ##  Let's Connect
 
 <p align="center">
-  <sub>Open to internships, junior backend roles, and systems-related collaboration · remote only · Sylhet, BD</sub>
-</p>
-
-<p align="center">
   <a href="https://dev.to/muhaimindev"><img src="https://img.shields.io/badge/DEV.to-muhaimindev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
   <a href="https://muhaimindev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-muhaimindev.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
   <a href="mailto:muhaiminmukammel818@gmail.com"><img src="https://img.shields.io/badge/Email-muhaiminmukammel818@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/MuhaiminDev"><img src="https://img.shields.io/badge/X-@MuhaiminDev-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://medium.com/@muhaiminmukammel818"><img src="https://img.shields.io/badge/Medium-Writeups-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
-
-```
-$ echo "Build systems. Understand the cost."
-```
