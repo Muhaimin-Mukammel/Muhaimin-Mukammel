@@ -64,10 +64,16 @@ public class MuhaiminMukammel {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-E8432E?style=for-the-badge&logoColor=white)
 
 ### Concurrency & Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-FF6F00?style=for-the-badge&logo=mockito&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Java Virtual Threads](https://img.shields.io/badge/Java_Virtual_Threads-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Networking & Protocols
 ![HTTP](https://img.shields.io/badge/HTTP-005C9C?style=for-the-badge&logo=http&logoColor=white)
@@ -150,39 +156,11 @@ public class MuhaiminMukammel {
 
 ---
 
-##  Currently Working On
+##  Portfolio
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  1. Realtime Crypto Trading Platform — Gateway Service                   │
-├──────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│   Binance ──► Ingestion ──► Redis Pub/Sub ──► Gateway ──► WS Clients     │
-│                                                                          │
-│   session mgmt · subscriptions · fan-out · reconnection · lifecycle      │
-└──────────────────────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────────────────────┐
-│  2. Distributed E-commerce Backend                                       │
-├──────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│   Users → DNS → CDN → Load Balancer → Router/Gateway                     │
-│                              │                                           │
-│              ┌───────────────┼───────────────┐                           │
-│              ▼               ▼               ▼                           │
-│         User Service    Product Svc     Order / Search                   │
-│              │               │               │                           │
-│              └────── gRPC / Events ──────────┘                           │
-│                              │                                           │
-│              ┌───────────────┼───────────────┐                           │
-│              ▼               ▼               ▼                           │
-│         Redis Cache     Event Bus      Master DB + Replicas              │
-│      (catalog/search)  (notify/route)     + Backup                       │
-│                                                                          │
-│   Focus: service boundaries · sync vs async · caching · failure modes    │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
+<p align="center">
+  <a href="https://muhaimindev.netlify.app"><img src="https://img.shields.io/badge/Visit_my_portfolio-muhaimindev.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
@@ -203,13 +181,18 @@ I write about the problems I’m actively wrestling with:
 - [Understanding Concurrency with Examples](https://medium.com/@muhaiminmukammel818)
 - [Learning Without AI](https://medium.com/@muhaiminmukammel818)
 
-More on [Medium](https://medium.com/@muhaiminmukammel818)
+More on [Medium](https://medium.com/@muhaiminmukammel818) and [dev.to](https://dev.to/muhaimindev)
 
 ---
 
 ##  Let's Connect
 
 <p align="center">
+  <sub>Open to internships, junior backend roles, and systems-related collaboration · remote only · Sylhet, BD</sub>
+</p>
+
+<p align="center">
+  <a href="https://dev.to/muhaimindev"><img src="https://img.shields.io/badge/DEV.to-muhaimindev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
   <a href="https://muhaimindev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-muhaimindev.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
   <a href="mailto:muhaiminmukammel818@gmail.com"><img src="https://img.shields.io/badge/Email-muhaiminmukammel818@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/MuhaiminDev"><img src="https://img.shields.io/badge/X-@MuhaiminDev-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -219,4 +202,3 @@ More on [Medium](https://medium.com/@muhaiminmukammel818)
 ```
 $ echo "Build systems. Understand the cost."
 ```
-
