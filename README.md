@@ -192,7 +192,7 @@ public class MuhaiminMukammel {
 
 ##  Writing
 
-I write about the problems I’m actively wrestling with:
+Some of my writings : 
 
 - [Building a Reliable Docker Compose Setup for Spring Boot Microservices](https://medium.com/@muhaiminmukammel818/building-a-reliable-docker-compose-setup-for-spring-boot-microservices-2c767234de3e)
 - [Stock Reservation System in an E-commerce Platform with Retry Mechanism (Backend)](https://medium.com/@muhaiminmukammel818/stock-reservation-system-in-a-e-commerce-platform-with-retry-mechanism-backend-e69a0913154a)
