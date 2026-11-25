@@ -4,7 +4,7 @@
   <a href="https://github.com/Muhaimin-Mukammel"><img src="https://img.shields.io/badge/GitHub-Muhaimin--Mukammel-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://muhaimindev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-muhaimindev-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
   <a href="https://codeforces.com/profile/Padedorse1"><img src="https://img.shields.io/badge/Codeforces-Padedorse1-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://www.codechef.com/users/padedorse"><img src="https://img.shields.io/badge/CodeChef-padedorse-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://leetcode.com/u/muhaimindev/"><img src="https://img.shields.io/badge/LeetCode-muhaimindev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://x.com/MuhaiminDev"><img src="https://img.shields.io/badge/X-@MuhaiminDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://medium.com/@muhaiminmukammel818"><img src="https://img.shields.io/badge/Medium-@muhaiminmukammel818-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
@@ -46,6 +46,18 @@ public class MuhaiminMukammel {
     }
 }
 ```
+
+---
+
+##  Interests
+
+- Root Cause Analysis (RCA)
+- Distributed Systems
+- Event-Driven Architecture
+- Enterprise Applications
+- Payment Backend Logic
+- Concurrent Application Design
+- Microservices Architecture
 
 ---
 
@@ -173,6 +185,7 @@ public class MuhaiminMukammel {
 <p align="center">
   <a href="https://codeforces.com/profile/Padedorse1"><img src="https://img.shields.io/badge/Codeforces-Padedorse1-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://www.codechef.com/users/padedorse"><img src="https://img.shields.io/badge/CodeChef-padedorse-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://leetcode.com/u/muhaimindev/"><img src="https://img.shields.io/badge/LeetCode-muhaimindev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ---
@@ -181,9 +194,9 @@ public class MuhaiminMukammel {
 
 I write about the problems I’m actively wrestling with:
 
-- [My Learning Philosophy](https://medium.com/@muhaiminmukammel818/my-learning-phylosophy-99cee9489c7e)
-- [Understanding Concurrency with Examples](https://medium.com/@muhaiminmukammel818)
-- [Learning Without AI](https://medium.com/@muhaiminmukammel818)
+- [Building a Reliable Docker Compose Setup for Spring Boot Microservices](https://medium.com/@muhaiminmukammel818/building-a-reliable-docker-compose-setup-for-spring-boot-microservices-2c767234de3e)
+- [Stock Reservation System in an E-commerce Platform with Retry Mechanism (Backend)](https://medium.com/@muhaiminmukammel818/stock-reservation-system-in-a-e-commerce-platform-with-retry-mechanism-backend-e69a0913154a)
+- [OAuth2 Implementation on a Multi-Plugin Maven Project with Spring Boot and Keycloak](https://medium.com/@muhaiminmukammel818/oauth2-implementation-on-a-multi-plugin-maven-project-with-spring-boot-and-keycloak-80445844b160)
 
 More on [Medium](https://medium.com/@muhaiminmukammel818) and [dev.to](https://dev.to/muhaimindev)
 
