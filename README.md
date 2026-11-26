@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>🟢 Open to internships, junior backend roles, and systems-related collaboration · remote only · Sylhet, BD</b>
+  <b>🟢Open to Backend / Systems Engineering internships and junior roles · Remote only </b>
 </p>
 
 ---
@@ -199,6 +199,19 @@ Some of my writings :
 - [OAuth2 Implementation on a Multi-Plugin Maven Project with Spring Boot and Keycloak](https://medium.com/@muhaiminmukammel818/oauth2-implementation-on-a-multi-plugin-maven-project-with-spring-boot-and-keycloak-80445844b160)
 
 More on [Medium](https://medium.com/@muhaiminmukammel818) and [dev.to](https://dev.to/muhaimindev)
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhaimin-Mukammel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhaimin-Mukammel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhaimin-Mukammel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
 ---
 
